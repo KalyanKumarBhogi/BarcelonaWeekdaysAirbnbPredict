@@ -1,7 +1,3 @@
-#File        : Final Project
-#Project     : Intermediate AnalY1tics
-#Author      : KalY1an Kumar Bhogi & Rutwiz Gangadhar Gullipalli
-#Professor   : Amin Karimpour
 
 #library data
 library(readr)
